@@ -16,11 +16,7 @@ Merhaba 👋 Ben  <img width="20" height="20" align="center" src="https://i.imgu
   <img src="https://komarev.com/ghpvc/?username=nisauzun&label=Profile%20views&color=0e75b6&style=flat" alt="nisauzun" />
 </p>
 
-<p align="left">
-  <a href="https://twitter.com/niisa_jk" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/niisa_jk?logo=twitter&style=for-the-badge" alt="niisa_jk" />
-  </a>
-</p>
+
 
 ### Sponsorlar
 
